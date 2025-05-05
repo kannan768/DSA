@@ -6,8 +6,6 @@ function test() {
 }
 test(1, 2, 3);  
 
-
-
 //imediate involing function
 
 (() => {
