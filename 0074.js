@@ -3,12 +3,10 @@ console.log("start");
 
 setTimeout(() => {
     console.log("timeout");
-    
 }, 0);
 
 setImmediate(() => {
     console.log("setimmediate");
-    
 })
 
 process.nextTick(() => {
