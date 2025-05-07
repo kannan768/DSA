@@ -1,4 +1,4 @@
-//palidrom
+//armstrong
 
 let n = 153;
 
